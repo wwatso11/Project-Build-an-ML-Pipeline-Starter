@@ -8,6 +8,8 @@ In this project you will build such a pipeline.
 
 #My wandb project link (https://wandb.ai/wwatso11-western-governors-university/nyc_airbnb/overview)
 
+#My github link (https://github.com/wwatso11/Project-Build-an-ML-Pipeline-Starter/tree/main)
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
